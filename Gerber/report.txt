@@ -1,0 +1,5 @@
+Plotted to '/home/chowdarymanyam/Downloads/Official/Bed leveler for 3D printers/Gerber/Bed-leveler-PCB-B_Cu.gbr'.
+Plotted to '/home/chowdarymanyam/Downloads/Official/Bed leveler for 3D printers/Gerber/Bed-leveler-PCB-B_Silkscreen.gbr'.
+Plotted to '/home/chowdarymanyam/Downloads/Official/Bed leveler for 3D printers/Gerber/Bed-leveler-PCB-Edge_Cuts.gbr'.
+Created Gerber job file '/home/chowdarymanyam/Downloads/Official/Bed leveler for 3D printers/Gerber/Bed-leveler-PCB-job.gbrjob'.
+Info: Done.
